@@ -42194,5 +42194,12 @@
     "author": "wan",
     "description": "Your personal command center — memos, todos, and projects in one stunning glassmorphism dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "renhao-wan/obsidian-dashboard"
+  },
+  {
+    "id": "time-canvas",
+    "name": "Time Canvas",
+    "author": "Setix",
+    "description": "Revisit your past: surface notes written on this day in previous years as collapsible cards in the sidebar.",
+    "repo": "SETIX-A/obsidian-time-canvas"
   }
 ]
